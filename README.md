@@ -1,2 +1,5 @@
-# real-time-face-emotion-detection
-Real-time face emotion recognition using OpenCV and CNN
+## Demo
+
+Below is a sample output of the real-time face emotion detection system:
+
+![Demo Screenshot](assets/demo.png)
